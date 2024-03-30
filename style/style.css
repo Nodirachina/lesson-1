@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+
+p{
+    background: yellow;
+    /* margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50; */
+    /* margin: 50px 50px 50px 50px; */
+    /* margin: 50px 50; */
+    margin: 50 px;
+    padding: 50px;
+
+}
+
+
+.text {
+background: url(../images/i.webp)no-repeat center /cover;
+color: white;
+width: 500px;
+height: 300px;
+margin: 0 auto;
+}
+
+#text {
+    background: red; 
+}
+
+.image {
+    border: 20px solid gold;
+    border-radius: 50%;
+}
+
+
+
+
